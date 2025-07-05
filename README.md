@@ -11,7 +11,6 @@ This project scrapes weather data for Addis Ababa over the last 7 days using Pyt
 ## Output
 - CSV file with daily weather data
 - Line chart showing temperature trends
-- Below is the chart showing average temperature over the past 7 days in Addis Ababa:
 
 ![Average Temperature Chart](addis_ababa_weather_chart.png)
 
